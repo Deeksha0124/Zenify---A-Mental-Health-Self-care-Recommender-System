@@ -103,6 +103,19 @@ At Zenify, we believe mental wellness should be accessible to everyone. Our miss
 | VS Code showing missing imports    | Check Python Interpreter & Virtualenv |
 | App not opening on browser         | Ensure Flask is running on port 5000  |
 
+## Results
+
+![image](https://github.com/user-attachments/assets/a4041e8d-0fe0-482f-b1d4-c1e7f1ea6b13)
+
+![image](https://github.com/user-attachments/assets/d87e26f7-698a-4681-84b0-0f25fdbfbcb4)
+
+![image](https://github.com/user-attachments/assets/6a90f394-f7fa-4882-9f15-40cf39796cc9)
+
+![image](https://github.com/user-attachments/assets/8ccac7f8-3faa-4245-b416-2640534a5c49)
+
+![image](https://github.com/user-attachments/assets/f14e367d-47a0-4502-aab1-1d475241945f)
+
+
 ##  Notes
 Dataset: 96 user survey responses (processed and cleaned)
 
