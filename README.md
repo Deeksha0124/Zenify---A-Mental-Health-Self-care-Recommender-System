@@ -1,1 +1,1 @@
-# Zenify-Mental-Health-Self-care-Recommender-System
+# Zenify - A Mental Health Self-care Recommender System
