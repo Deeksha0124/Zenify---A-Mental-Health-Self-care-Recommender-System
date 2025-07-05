@@ -13,4 +13,16 @@ At Zenify, we believe mental wellness should be accessible to everyone. Our miss
 
 - Clean, user-friendly interface with real-time feedback.
 
+## Tech Stack
+
+| Component                | Technology                          |
+| ------------------------ | ----------------------------------- |
+|  Frontend              | HTML, CSS                           |
+|  Backend               | Python (Flask)                      |
+|  Recommendation Engine | TensorFlow / Keras                  |
+|  Database (optional)   | SQLite / MongoDB                    |
+|  Package Management    | pip / requirements.txt              |
+|  Data Preprocessing    | pandas, scikit-learn                |
+
+
 
