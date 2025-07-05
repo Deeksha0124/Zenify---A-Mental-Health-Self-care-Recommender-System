@@ -5,12 +5,12 @@ At Zenify, we believe mental wellness should be accessible to everyone. Our miss
 
 ## Features
 
-🌱 Personalized self-care suggestions based on user responses.
+- Personalized self-care suggestions based on user responses.
 
-🧘‍♀️ Mindfulness and stress-relief activity recommendations.
+- Mindfulness and stress-relief activity recommendations.
 
-🗂️ Adaptive recommendations using machine learning.
+- Adaptive recommendations using machine learning.
 
-📊 Clean, user-friendly interface with real-time feedback.
+- Clean, user-friendly interface with real-time feedback.
 
 
